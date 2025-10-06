@@ -7,7 +7,7 @@ Conditioning LLMs with Emotion in Neural Machine Translation
 
 This project uses the **Libri-trans** dataset (Kocabiyikoglu et al., 2018).
 
-- **Source**: [Zenodo]([https://zenodo.org/record/XXXXX](https://zenodo.org/records/6482585#.YsmVBUhBxkg))  
+- **Source**: [Zenodo](https://zenodo.org/records/6482585#.YsmVBUhBxkg)
 - **Size**: ~235 hours of speech (~500k EN–FR pairs)
 
 **Note**: The full dataset is very large (tens of GB) and is therefore **not included in this repository**.  
