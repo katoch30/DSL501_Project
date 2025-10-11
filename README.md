@@ -11,6 +11,7 @@ This project uses the **Libri-trans** dataset (Kocabiyikoglu et al., 2018).
 - **Size**: ~235 hours of speech (~500k EN–FR pairs)
 
 **Note**: The full dataset is very large (tens of GB) and is therefore **not included in this repository**.  
+**Update**: a subset of the training data is uploaded which contains english and french scripts.
 Instead:  
 - You can download the complete dataset directly from Zenodo using the link above.  
-- For demonstration and reproducibility, this repository includes scripts to create a **small subset** of the data.
+  
