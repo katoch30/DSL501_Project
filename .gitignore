@@ -1,3 +1,4 @@
 myenv/
 __pycache__/
 *.pyc
+towerbase_training_output/results_translation/
